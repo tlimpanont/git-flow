@@ -1,0 +1,10 @@
+{
+  "preset": "airbnb",
+  "esnext": true,
+  "disallowSpacesInAnonymousFunctionExpression": null,
+  "requirePaddingNewLinesAfterBlocks": null,
+  "maximumLineLength": 300,
+  "disallowTrailingWhitespace": null,
+  "requireTrailingComma": null,
+  "excludeFiles": [".meteor"]
+}
