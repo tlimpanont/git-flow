@@ -1,3 +1,13 @@
+<a name="0.2.1"></a>
+## [0.2.1](https://github.com/aaronroberson/gulp-conventional-release/compare/v0.2.0...v0.2.1) (2016-07-31)
+
+
+### Bug Fixes
+
+* **index.js:** add end } ([5c50e76](https://github.com/aaronroberson/gulp-conventional-release/commit/5c50e76))
+
+
+
 <a name="0.2.0"></a>
 # [0.2.0](https://github.com/aaronroberson/gulp-conventional-release/compare/v0.1.0...v0.2.0) (2016-07-31)
 
