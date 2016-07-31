@@ -1,6 +1,6 @@
 {
   "name": "gulp-conventional-release",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A gulp plugin for managing semver releases using conventional changelog",
   "main": "dist/index.umd.js",
   "jsnext:main": "dist/index.es6.js",

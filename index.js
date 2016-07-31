@@ -1,1 +1,7 @@
-module.exports = function() { return {start: function(){}}
+module.exports = function() {
+  return {
+    start: function() {
+
+    }
+  }
+}
