@@ -1,3 +1,23 @@
+<a name="0.4.0"></a>
+# [0.4.0](https://github.com/aaronroberson/gulp-conventional-release/compare/v0.3.0...v0.4.0) (2016-07-31)
+
+
+### Features
+
+* **index.js:** say hello to the world ([47dbc1c](https://github.com/aaronroberson/gulp-conventional-release/commit/47dbc1c))
+
+
+
+<a name="0.3.0"></a>
+# [0.3.0](https://github.com/aaronroberson/gulp-conventional-release/compare/v0.2.1...v0.3.0) (2016-07-31)
+
+
+### Features
+
+* **index.js:** add getDate method ([8a0be1d](https://github.com/aaronroberson/gulp-conventional-release/commit/8a0be1d))
+
+
+
 <a name="0.2.1"></a>
 ## [0.2.1](https://github.com/aaronroberson/gulp-conventional-release/compare/v0.2.0...v0.2.1) (2016-07-31)
 
